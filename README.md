@@ -64,13 +64,15 @@ no installation needed, just clone is enough
 
 You can deploy this project using any hosting server in the world
 
+- Open this link to visit my portfolio website hosted on server: https://husush23.github.io/husush.github.io/
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors">Hussein Hashi</a>
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/husush23)
 - Twitter: [@twitterhandle](https://twitter.com/HusseinKadare2)
