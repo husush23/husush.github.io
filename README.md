@@ -70,7 +70,7 @@ You can deploy this project using any hosting server in the world
 
 ## 👥 Authors <a name="authors">Hussein Hashi</a>
 
-👤 **Author1**
+👤 **Author**
 
 - GitHub: [@githubhandle](https://github.com/husush23)
 - Twitter: [@twitterhandle](https://twitter.com/HusseinKadare2)
@@ -80,7 +80,7 @@ You can deploy this project using any hosting server in the world
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Full website**
+- [ ] **Full website** -[ ] open this link to this website hosted on server: https://husush23.github.io/husush.github.io/
 
 <!-- SUPPORT -->
 
