@@ -7,6 +7,19 @@
 body {
   background-color: #ddd;
 }
+@media (min-width: 375px) {
+  .header-mobile {
+    width: 375px;
+    height: 718px;
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+  }
+}
 
 main {
   display: flex;
@@ -244,6 +257,12 @@ ul li {
 }
 
 /* About */
+.about-work-card {
+  background-color: #fff;
+  width: 375px;
+  padding: 15px;
+  height: 770px;
+}
 .about {
   width: 345px;
   font-weight: normal;
@@ -254,12 +273,14 @@ ul li {
   justify-content: center;
   gap: 12px;
   text-align: left;
+  background-color: #fff;
 }
 
-.about h1 {
+.about h2 {
   color: #172b4d;
   font-size: 32px;
   font-weight: 700;
+  margin-bottom: 20px;
 }
 
 .about p {
@@ -267,7 +288,7 @@ ul li {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  letter-spacing: 0;
+  margin-bottom: 20px;
 }
 
 .btn {
