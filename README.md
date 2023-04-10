@@ -81,7 +81,7 @@ You can deploy this project using any hosting server in the world
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Full website**
-- Open this link to visit this website hosted on server: https://husush23.github.io/husush.github.io/
+- Open this link to visit my portfolio website hosted on server: https://husush23.github.io/husush.github.io/
 
 <!-- SUPPORT -->
 
