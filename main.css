@@ -155,7 +155,6 @@ ul li {
   height: 15px;
 }
 
-/* second part */
 .work-card {
   display: grid;
   grid-template-rows: 1fr;
@@ -258,7 +257,6 @@ ul li {
   color: #fff;
 }
 
-/* About */
 .about-work-card {
   background-color: #fff;
   width: 375px;
@@ -347,7 +345,6 @@ ul li {
   padding-left: 120px;
 }
 
-/* Contact form */
 .contact-card {
   background-color: #fbf8f8;
 }
@@ -442,7 +439,6 @@ button.btn {
   border: 1px solid white;
 }
 
-/* Media queries */
 @media (min-width: 768px) {
   main {
     /* background-color: #fff; */
@@ -503,7 +499,6 @@ button.btn {
     color: #0f24e3;
   }
 
-  /* section in header */
   .introduction {
     display: flex;
     flex-direction: column;
@@ -739,9 +734,6 @@ button.btn {
     color: #396df2;
     font-size: 17px;
     line-height: 24px;
-
-    /* transition: all;
-    transition-duration: 2s; */
   }
 
   .btn {
