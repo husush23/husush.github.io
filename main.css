@@ -7,11 +7,13 @@
 body {
   background-color: #ddd;
 }
+
 @media (min-width: 375px) {
   .header-mobile {
     width: 375px;
     height: 718px;
   }
+
   main {
     display: flex;
     flex-direction: column;
@@ -263,6 +265,7 @@ ul li {
   padding: 15px;
   height: 770px;
 }
+
 .about {
   width: 345px;
   font-weight: normal;
